@@ -10,9 +10,6 @@ A security researcher focused on web application vulnerabilities. I spend my tim
 
 Outside of security, I'm a tech enthusiast who enjoys building tools, experimenting with new technologies, and occasionally diving deep into the philosophy of existence.
 
-
-- Ahmad Farel Pratama
-
 ##### Skill
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
