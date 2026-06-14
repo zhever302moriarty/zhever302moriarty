@@ -1,6 +1,6 @@
 ## 302 Found
 
-![Ahmad Farel Pratama](img/holahalo.jpg)
+![Ahmad Farel Pratama](img/rk0.jpg)
 
 A security researcher focused on web application vulnerabilities. I spend my time understanding how systems work, then responsibly finding where they break, through bug bounty programs.
 
